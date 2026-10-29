@@ -1,5 +1,5 @@
 
-# 🏡 House Price Prediction Using Regression Models
+# 🏡 House Price Prediction Using Linear Regression Models
 
 ## 📌 Project Overview
 This project predicts house prices using machine learning regression algorithms. It includes data cleaning, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
