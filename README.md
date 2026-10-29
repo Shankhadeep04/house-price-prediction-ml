@@ -76,7 +76,7 @@ The regression models are compared using RMSE, MAE, and R² Score. The best-perf
 ## 👨‍💻 Author
 **Your Name**
 
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/Shankhadeep04
 
 ## 📄 License
 This project is intended for educational and portfolio purposes.
