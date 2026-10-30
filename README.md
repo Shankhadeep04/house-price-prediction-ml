@@ -39,11 +39,27 @@ This project predicts house prices using machine learning regression algorithms.
 
 ## 📂 Project Structure
 ```text
-house-price-prediction-ml/
-├── data/
+House_Price_Prediction/
+│
+├── dataset/
+│   └── house_prices.csv
+│
 ├── notebooks/
-│   └── house_price_prediction.ipynb
-├── images/
+│   └── house_price_analysis.ipynb
+│
+├── src/
+│   ├── data_ingestion.py
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   └── model_evaluation.py
+│
+├── models/
+│   ├── linear_regression.pkl
+│   ├── ridge_regression.pkl
+│   └── lasso_regression.pkl
+│
+├── app.py
 ├── requirements.txt
 └── README.md
 ```
