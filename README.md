@@ -42,7 +42,7 @@ This project predicts house prices using machine learning regression algorithms.
 House_Price_Prediction/
 │
 ├── dataset/
-│   └── house_prices.csv
+│   └── USA_Housing.csv
 │
 ├── notebooks/
 │   └── house_price_analysis.ipynb
