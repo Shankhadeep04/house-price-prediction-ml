@@ -88,6 +88,8 @@ Open `house_price_prediction.ipynb` and run the cells in order.
 The regression models are compared using RMSE, MAE, and R² Score. The best-performing model is selected based on evaluation results.
 
 *Add your actual model metrics and visualizations here after running the project.*
+🌐 Live Demo
+[https://house-price-prediction-ml-sb.streamlit.app/](https://house-price-prediction-ml-sb.streamlit.app/)
 
 ## 👨‍💻 Author
 **Your Name**
